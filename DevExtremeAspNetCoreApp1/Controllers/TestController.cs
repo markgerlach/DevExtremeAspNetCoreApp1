@@ -11,6 +11,7 @@ namespace DevExtremeAspNetCoreApp1.Controllers
         public IActionResult Index()
         {
             return View();
+            // Tested by Mark Gerlach
         }
     }
 }
